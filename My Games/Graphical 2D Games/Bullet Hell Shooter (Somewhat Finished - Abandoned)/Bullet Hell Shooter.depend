@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1383765629 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\enemy.cpp
+	"Engine.h"
+	"Enemy.h"
+	"Bullet.h"
+	"Button.h"
+	"Pickup.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1383764992 d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\engine.h
+	"Enemy.h"
+	"Bullet.h"
+	"Pickup.h"
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+
+1383765614 d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\enemy.h
+
+1383764992 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\main.cpp
+	"Engine.h"
+	"Enemy.h"
+	"Bullet.h"
+	"Button.h"
+	"Pickup.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1383764655 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\bullet.cpp
+	"Engine.h"
+	"Enemy.h"
+	"Bullet.h"
+	"Button.h"
+	"Pickup.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1383764655 d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\bullet.h
+
+1383665813 d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\button.h
+
+1383765614 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\button.cpp
+	"Engine.h"
+	"Enemy.h"
+	"Bullet.h"
+	"Button.h"
+	"Pickup.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
+1383073754 d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\pickup.h
+
+1382892787 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\bullet hell shooter\pickup.cpp
+	"Engine.h"
+	"Enemy.h"
+	"Bullet.h"
+	"Button.h"
+	"Pickup.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+

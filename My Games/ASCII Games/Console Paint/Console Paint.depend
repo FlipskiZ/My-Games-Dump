@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1373653284 source:d:\documents\c++programming\codeblocks\projects\games\console paint\main.cpp
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<curses.h>
+
+1220911818 d:\documents\c++programming\codeblocks\libraries\pd - simple\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+

@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1386086694 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\main.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1386086606 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\engine.h
+	"Bullet.h"
+	"Zombie.h"
+	"Button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	<vector>
+	<fstream>
+
+1385925335 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\bullet.h
+
+1385925335 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\bullet.cpp
+	"Engine.h"
+
+1385397892 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\enemy.h
+
+1385396890 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\enemy.cpp
+	"Engine.h"
+
+1385401072 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\zombie.h
+
+1385927323 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\zombie.cpp
+	"Engine.h"
+
+1386083417 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\gamestate.h
+	"Engine.h"
+
+1386010531 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\playstate.h
+	"GameState.h"
+
+1386086606 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\engine.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+
+1386084525 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\playstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+
+1386010531 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\menustate.h
+	"GameState.h"
+
+1386085289 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\menustate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+
+1386085008 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\button.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+
+1386085008 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\button.h
+
+1386086694 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\editorstate.cpp
+	"Engine.h"
+	"EditorState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+
+1386015195 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter\editorstate.h
+	"GameState.h"
+
+1386706458 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\bullet.cpp
+	"Engine.h"
+
+1386801187 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\engine.h
+	"Bullet.h"
+	"Zombie.h"
+	"Button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	<vector>
+	<fstream>
+
+1385925335 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\bullet.h
+
+1386506947 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\zombie.h
+
+1386085008 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\button.h
+
+1386802983 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\button.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+
+1386364151 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\menustate.h
+	"GameState.h"
+	"PlayState.h"
+
+1386364008 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\gamestate.h
+	"Engine.h"
+
+1386364014 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\playstate.h
+	"GameState.h"
+
+1386717862 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\editorstate.h
+	"GameState.h"
+
+1386788189 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\editorstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386801187 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\engine.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386861010 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\main.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1386599300 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\menustate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386861010 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\playstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386796412 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\zombie.cpp
+	"Engine.h"
+
+1386705891 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\shopstate.h
+	"GameState.h"
+	"PlayState.h"
+
+1386716474 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (wip - work in progress)\shopstate.cpp
+	"Engine.h"
+	"ShopState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386706458 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\bullet.cpp
+	"Engine.h"
+
+1386801187 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\engine.h
+	"Bullet.h"
+	"Zombie.h"
+	"Button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	<vector>
+	<fstream>
+
+1385925335 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\bullet.h
+
+1386506947 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\zombie.h
+
+1386085008 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\button.h
+
+1386802983 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\button.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+
+1386364151 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\menustate.h
+	"GameState.h"
+	"PlayState.h"
+
+1386364008 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\gamestate.h
+	"Engine.h"
+
+1386364014 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\playstate.h
+	"GameState.h"
+
+1386969818 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\editorstate.h
+	"GameState.h"
+
+1386801187 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\engine.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386705891 d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\shopstate.h
+	"GameState.h"
+	"PlayState.h"
+
+1386861010 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\main.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1386599300 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\menustate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386950799 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\playstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386716474 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\shopstate.cpp
+	"Engine.h"
+	"ShopState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+
+1386796412 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\zombie.cpp
+	"Engine.h"
+
+1386969881 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\twin-stick shooter (finished)\editorstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+	"EditorState.h"
+	"ShopState.h"
+

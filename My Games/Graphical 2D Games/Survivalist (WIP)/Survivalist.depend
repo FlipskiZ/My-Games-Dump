@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1395574893 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\button.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1396200440 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\engine.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	<vector>
+	<fstream>
+	"Button.h"
+	"Player.h"
+	"PistolBullet.h"
+	"DebugClass.h"
+	"Zombie.h"
+
+1395700893 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\button.h
+	"Entity.h"
+
+1396108174 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\entity.h
+	"Engine.h"
+
+1396196970 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\player.h
+	"LivingEntity.h"
+
+1396196970 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\livingentity.h
+	"Entity.h"
+
+1396028338 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\pistolbullet.h
+	"MissileEntity.h"
+
+1395701146 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\missileentity.h
+	"Entity.h"
+
+1396109390 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\debugclass.h
+	"Entity.h"
+
+1386367751 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\menustate.h
+	"GameState.h"
+	"PlayState.h"
+
+1386367608 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\gamestate.h
+	"Engine.h"
+
+1386956099 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\playstate.h
+	"GameState.h"
+
+1396109528 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\debugclass.cpp
+	"Engine.h"
+	"DebugClass.h"
+
+1396199791 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\engine.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1396188171 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\entity.cpp
+	"Engine.h"
+	"Entity.h"
+
+1396202432 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\main.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395618049 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\menustate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395701245 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\missileentity.cpp
+	"Engine.h"
+	"MissileEntity.h"
+
+1396202035 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\pistolbullet.cpp
+	"Engine.h"
+	"PistolBullet.h"
+
+1396202432 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\playstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1396196990 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\livingentity.cpp
+	"Engine.h"
+	"LivingEntity.h"
+
+1396202063 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\player.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1396202081 source:d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\zombie.cpp
+	"Engine.h"
+	"Zombie.h"
+
+1396199742 d:\c++programming\codeblocks\projects\games\2d projects\survivalist (wip)\zombie.h
+	"LivingEntity.h"
+

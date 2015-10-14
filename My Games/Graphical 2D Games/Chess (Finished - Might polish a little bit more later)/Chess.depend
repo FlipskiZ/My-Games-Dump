@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1395443752 source:d:\c++programming\codeblocks\projects\games\2d projects\chess\button.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395443752 d:\c++programming\codeblocks\projects\games\2d projects\chess\engine.h
+	"Button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	<vector>
+	<fstream>
+
+1395443752 d:\c++programming\codeblocks\projects\games\2d projects\chess\button.h
+
+1386364151 d:\c++programming\codeblocks\projects\games\2d projects\chess\menustate.h
+	"GameState.h"
+	"PlayState.h"
+
+1386364008 d:\c++programming\codeblocks\projects\games\2d projects\chess\gamestate.h
+	"Engine.h"
+
+1386952499 d:\c++programming\codeblocks\projects\games\2d projects\chess\playstate.h
+	"GameState.h"
+
+1386954198 source:d:\c++programming\codeblocks\projects\games\2d projects\chess\menustate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395167611 source:d:\c++programming\codeblocks\projects\games\2d projects\chess\engine.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395446133 source:d:\c++programming\codeblocks\projects\games\2d projects\chess\main.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395167611 source:d:\c++programming\codeblocks\projects\games\2d projects\chess\playstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395443752 source:d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\button.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395443752 d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\engine.h
+	"Button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+	<vector>
+	<fstream>
+
+1395443752 d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\button.h
+
+1386364151 d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\menustate.h
+	"GameState.h"
+	"PlayState.h"
+
+1386364008 d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\gamestate.h
+	"Engine.h"
+
+1386952499 d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\playstate.h
+	"GameState.h"
+
+1395167611 source:d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\engine.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395446786 source:d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\main.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1386954198 source:d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\menustate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+
+1395167611 source:d:\c++programming\codeblocks\projects\games\2d projects\chess (wip)\playstate.cpp
+	"Engine.h"
+	"MenuState.h"
+	"GameState.h"
+	"PlayState.h"
+

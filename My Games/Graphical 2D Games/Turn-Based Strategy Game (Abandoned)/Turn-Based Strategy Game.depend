@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1385055145 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\turn-based strategy game\main.cpp
+	"Engine.h"
+
+1384636491 d:\documents\c++programming\codeblocks\projects\games\2d projects\turn-based strategy game\includes.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1385055052 d:\documents\c++programming\codeblocks\projects\games\2d projects\turn-based strategy game\engine.h
+	"Unit.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1384792909 d:\documents\c++programming\codeblocks\projects\games\2d projects\turn-based strategy game\unit.h
+
+1385054281 source:d:\documents\c++programming\codeblocks\projects\games\2d projects\turn-based strategy game\unit.cpp
+	"Engine.h"
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1377868959 source:d:\documents\c++programming\codeblocks\projects\games\maze game\main.cpp
+	"Engine.h"
+	"Actor.h"
+	<cstdlib>
+	<ctime>
+	<curses.h>
+
+1377788913 d:\documents\c++programming\codeblocks\projects\games\maze game\engine.h
+
+1377702786 d:\documents\c++programming\codeblocks\projects\games\maze game\actor.h
+
+1220911818 d:\documents\c++programming\codeblocks\libraries\pd - simple\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1377868533 source:d:\documents\c++programming\codeblocks\projects\games\maze game\actor.cpp
+	"Engine.h"
+	"Actor.h"
+	<cstdlib>
+	<ctime>
+	<curses.h>
+
